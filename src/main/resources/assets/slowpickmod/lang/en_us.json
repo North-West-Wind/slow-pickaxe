@@ -1,0 +1,19 @@
+{
+  "itemGroup.slowpicktab": "Slow Pickaxe",
+
+  "item.slowpickmod.slow_pickaxe": "Slow Pickaxe",
+  "item.slowpickmod.slower_pickaxe": "Slower Pickaxe",
+  "item.slowpickmod.slowest_pickaxe": "Slowest Pickaxe",
+
+  "advancements.slowpickmod.root.title": "Slow Pickaxe",
+  "advancements.slowpickmod.slow_pickaxe.title": "This takes decades",
+  "advancements.slowpickmod.slower_pickaxe.title": "This takes centuries",
+  "advancements.slowpickmod.slowest_pickaxe.title": "This takes ages",
+  "advancements.slowpickmod.break_pickaxe.title": "VERY Serious Dedication",
+
+  "advancements.slowpickmod.root.description": "The beginning of slow pickaxe",
+  "advancements.slowpickmod.slow_pickaxe.description": "Obtain a Slow Pickaxe",
+  "advancements.slowpickmod.slower_pickaxe.description": "Obtain a Slower Pickaxe",
+  "advancements.slowpickmod.slowest_pickaxe.description": "Obtain a Slowest Pickaxe",
+  "advancements.slowpickmod.break_pickaxe.description": "Break a Slowest Pickaxe"
+}

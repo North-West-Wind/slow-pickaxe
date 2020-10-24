@@ -1,0 +1,35 @@
+{
+  "parent": "slowpickmod:slowpickmod/slowest_pickaxe",
+  "display": {
+    "icon": {
+      "item": "minecraft:stone"
+    },
+    "title": {
+      "translate": "advancements.slowpickmod.break_pickaxe.title"
+    },
+    "description": {
+      "translate": "advancements.slowpickmod.break_pickaxe.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "break_pickaxe": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "delta": -1,
+        "item": {
+          "item": "slowpickmod:slowest_pickaxe",
+          "durability": 1
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "break_pickaxe"
+    ]
+  ]
+}
